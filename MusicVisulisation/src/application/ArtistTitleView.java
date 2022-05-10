@@ -2,10 +2,11 @@ package application;
 
 
 import javafx.scene.control.Label;
+
 import javafx.scene.layout.VBox;
 
 public class ArtistTitleView extends VBox{
-	
+	//hallo
 	private Label artist;
 	private Label title;
 	
