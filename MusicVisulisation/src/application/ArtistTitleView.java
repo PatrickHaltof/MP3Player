@@ -17,7 +17,6 @@ public class ArtistTitleView extends VBox{
 		
 		this.getChildren().addAll(title, artist);
 		
-		
 	}
 
 }
